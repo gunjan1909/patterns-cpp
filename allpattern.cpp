@@ -326,6 +326,14 @@ void pattern8()
       }
       cout << endl;
    }
+    /* for (i = 1; i <= height; i++)
+   {
+      for (j = i; j >0 ; j--)
+      {
+         cout << j<< " ";
+      }
+      cout << endl;
+   }*/
    cout << endl;
 }
 
